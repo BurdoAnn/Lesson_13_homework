@@ -1,0 +1,21 @@
+%container-sizes {
+    margin-left: $margin-left;
+    margin-top: 70px;
+}
+
+%font-style {
+    font-family: $font-roboto;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+%font-style-2 {
+    font-family: $font-teko;
+    font-weight: lighter;
+    font-size: 20px;
+}
+
+%img-size {
+    width: 300px;
+    height: 350px;
+}
